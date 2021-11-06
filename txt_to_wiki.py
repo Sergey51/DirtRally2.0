@@ -2,8 +2,6 @@ with open('src.txt') as f:
     lines = f.readlines()
     
 res_line = '{| class="wikitable sortable" style="text-align:center; font-size:90%" width="65%"\n'
-# res_line += '!Place\n!Driver\n!Car\n!STAGE\n!DIFF\n!TOTAL\n!DIFF\n'
-#res_line += '!POS\n!Driver\n!01\n!PTS\n'
 
 head_formed = False
 
