@@ -1,0 +1,226 @@
+{| class="wikitable sortable" style="text-align:center; font-size:90%" width="65%"
+!POS.
+!DRIVER
+!01
+!PTS
+|- 
+| 1
+| JACKAL1976
+| 0
+| 0
+|- 
+| 2
+| FUJIWARA7
+| 0
+| 0
+|- 
+| 3
+| ANDRERZ
+| 0
+| 0
+|- 
+| 4
+| EVGENICH
+| 0
+| 0
+|- 
+| 5
+| IVANKOFF
+| 0
+| 0
+|- 
+| 6
+| NOMAND
+| 0
+| 0
+|- 
+| 7
+| NIIBAKA
+| 0
+| 0
+|- 
+| 8
+| AZ141179
+| 0
+| 0
+|- 
+| 9
+| BULLE613
+| 0
+| 0
+|- 
+| 10
+| VILUMANIS
+| 0
+| 0
+|- 
+| 11
+| NICKSTEP
+| 0
+| 0
+|- 
+| 12
+| BMPUNK
+| 0
+| 0
+|- 
+| 13
+| YURLAN0813
+| 0
+| 0
+|- 
+| 14
+| RIDEALLDAY
+| 0
+| 0
+|- 
+| 15
+| LAYNERO
+| 0
+| 0
+|- 
+| 16
+| ROLLIN301
+| 0
+| 0
+|- 
+| 17
+| ZORKIIGLAZ
+| 0
+| 0
+|- 
+| 18
+| GROM20
+| 0
+| 0
+|- 
+| 19
+| HITROVTIME
+| 0
+| 0
+|- 
+| 20
+| XGRABBERX
+| 0
+| 0
+|- 
+| 21
+| VANYASGT
+| 0
+| 0
+|- 
+| 22
+| SAN4EZSIMRACING
+| 0
+| 0
+|- 
+| 23
+| BOMBERMANLV
+| 0
+| 0
+|- 
+| 24
+| KATAYUMATAYUYT
+| 0
+| 0
+|- 
+| 25
+| IVAN45RUS
+| 0
+| 0
+|- 
+| 26
+| ARTYPANIC
+| 0
+| 0
+|- 
+| 27
+| GOMER4IK
+| 0
+| 0
+|- 
+| 28
+| SOLDATENKO
+| 0
+| 0
+|- 
+| 29
+| EVGENIYSTRAMOK
+| 0
+| 0
+|- 
+| 30
+| VITAX16XE
+| 0
+| 0
+|- 
+| 31
+| ITSTACO
+| 0
+| 0
+|- 
+| 32
+| KNELLROHAN
+| 0
+| 0
+|- 
+| 33
+| JOHND75
+| 0
+| 0
+|- 
+| 34
+| SERGEY09
+| 0
+| 0
+|- 
+| 35
+| SENYAJO
+| 0
+| 0
+|- 
+| 36
+| BOOMMEN43
+| 0
+| 0
+|- 
+| 37
+| SINOTOV2008
+| 0
+| 0
+|- 
+| 38
+| HAMSTERMANIACUS
+| 0
+| 0
+|- 
+| 39
+| VLADKEVLAR
+| 0
+| 0
+|- 
+| 40
+| RUSLANTITARENKO
+| 0
+| 0
+|- 
+| 41
+| SOHOTTACOSAUCE
+| 0
+| 0
+|- 
+| 42
+| STOLEG
+| 0
+| 0
+|- 
+| 43
+| VANTERKRAFT
+| 0
+| 0
+|- 
+| 44
+| MACKLAREN
+| 0
+| 
+|}
